@@ -29,7 +29,20 @@ namespace MusicAnalyzer
                         string[] parts = line.Split('\t');
                         lineCount++;
 
-                        if (parts.Length != 7) throw new InvalidFormateException(lineCount);
+                        if (parts.Length != 7) throw new InvalidNumberOfValuesException(lineCount, parts.Length, 7);
+
+                        int size = -1;
+                        Int32.TryParse(parts[4], out size);
+                        if (size == -1) throw new InvalidTypeException(lineCount, 5, typeof(int));
+
+                        int time = -1;
+                        Int32.TryParse(parts[5], out time);
+                        if (time == -1) throw new InvalidTypeException(lineCount, 6, typeof(int));
+
+                        int year = -1;
+                        Int32.TryParse(parts[6], out year);
+                        if (year == -1) throw new InvalidTypeException(lineCount, 7, typeof(int));
+
 
                         Song song = new Song(parts[0],
                                              parts[1],
@@ -43,7 +56,7 @@ namespace MusicAnalyzer
                     }
                 }
             }
-            catch(IOException e)
+            catch(IOException)
             {
                 WriteLine($"Error reading {fileName}: Cannot open file.");
             }

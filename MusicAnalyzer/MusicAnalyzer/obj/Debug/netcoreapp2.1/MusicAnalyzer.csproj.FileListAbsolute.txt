@@ -2,3 +2,7 @@ C:\Users\tyler\source\repos\MusicAnalyzer\MusicAnalyzer\obj\Debug\netcoreapp2.1\
 C:\Users\tyler\source\repos\MusicAnalyzer\MusicAnalyzer\obj\Debug\netcoreapp2.1\MusicAnalyzer.csproj.CoreCompileInputs.cache
 C:\Users\tyler\source\repos\MusicAnalyzer\MusicAnalyzer\obj\Debug\netcoreapp2.1\MusicAnalyzer.AssemblyInfoInputs.cache
 C:\Users\tyler\source\repos\MusicAnalyzer\MusicAnalyzer\obj\Debug\netcoreapp2.1\MusicAnalyzer.AssemblyInfo.cs
+C:\Users\tyler\source\repos\FinalProjectIT2040-Music_Analyzer\MusicAnalyzer\MusicAnalyzer\obj\Debug\netcoreapp2.1\MusicAnalyzer.csprojAssemblyReference.cache
+C:\Users\tyler\source\repos\FinalProjectIT2040-Music_Analyzer\MusicAnalyzer\MusicAnalyzer\obj\Debug\netcoreapp2.1\MusicAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\FinalProjectIT2040-Music_Analyzer\MusicAnalyzer\MusicAnalyzer\obj\Debug\netcoreapp2.1\MusicAnalyzer.AssemblyInfoInputs.cache
+C:\Users\tyler\source\repos\FinalProjectIT2040-Music_Analyzer\MusicAnalyzer\MusicAnalyzer\obj\Debug\netcoreapp2.1\MusicAnalyzer.AssemblyInfo.cs

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tyler\\source\\repos\\MusicAnalyzer\\MusicAnalyzer\\MusicAnalyzer.csproj": {}
+    "C:\\Users\\tyler\\source\\repos\\FinalProjectIT2040-Music_Analyzer\\MusicAnalyzer\\MusicAnalyzer\\MusicAnalyzer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tyler\\source\\repos\\MusicAnalyzer\\MusicAnalyzer\\MusicAnalyzer.csproj": {
+    "C:\\Users\\tyler\\source\\repos\\FinalProjectIT2040-Music_Analyzer\\MusicAnalyzer\\MusicAnalyzer\\MusicAnalyzer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tyler\\source\\repos\\MusicAnalyzer\\MusicAnalyzer\\MusicAnalyzer.csproj",
+        "projectUniqueName": "C:\\Users\\tyler\\source\\repos\\FinalProjectIT2040-Music_Analyzer\\MusicAnalyzer\\MusicAnalyzer\\MusicAnalyzer.csproj",
         "projectName": "MusicAnalyzer",
-        "projectPath": "C:\\Users\\tyler\\source\\repos\\MusicAnalyzer\\MusicAnalyzer\\MusicAnalyzer.csproj",
+        "projectPath": "C:\\Users\\tyler\\source\\repos\\FinalProjectIT2040-Music_Analyzer\\MusicAnalyzer\\MusicAnalyzer\\MusicAnalyzer.csproj",
         "packagesPath": "C:\\Users\\tyler\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tyler\\source\\repos\\MusicAnalyzer\\MusicAnalyzer\\obj\\",
+        "outputPath": "C:\\Users\\tyler\\source\\repos\\FinalProjectIT2040-Music_Analyzer\\MusicAnalyzer\\MusicAnalyzer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",
