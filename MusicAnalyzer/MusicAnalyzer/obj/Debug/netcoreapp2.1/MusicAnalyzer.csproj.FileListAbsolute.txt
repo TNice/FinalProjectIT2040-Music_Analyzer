@@ -1,0 +1,4 @@
+C:\Users\tyler\source\repos\MusicAnalyzer\MusicAnalyzer\obj\Debug\netcoreapp2.1\MusicAnalyzer.csprojAssemblyReference.cache
+C:\Users\tyler\source\repos\MusicAnalyzer\MusicAnalyzer\obj\Debug\netcoreapp2.1\MusicAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\MusicAnalyzer\MusicAnalyzer\obj\Debug\netcoreapp2.1\MusicAnalyzer.AssemblyInfoInputs.cache
+C:\Users\tyler\source\repos\MusicAnalyzer\MusicAnalyzer\obj\Debug\netcoreapp2.1\MusicAnalyzer.AssemblyInfo.cs
